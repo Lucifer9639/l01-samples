@@ -1,22 +1,17 @@
-# L01 DR samples — min credible (Creative Producer)
-**Date:** 2026-09-08  
-**Path:** CapCut/FFmpeg (no Higgsfield)  
-**Source:** Owned-brand portfolio reel shots  
-**Honesty:** All three are **self-initiated / owned-brand edit studies** — NOT paid client DR ads, NOT ROAS proof. Burned-in footer says so.
+# L01 DR samples — public handoff
 
-## Primary deliverables (attach these)
-| # | File | Structure | Label |
-|---|------|-----------|-------|
-| 1 | `deliver/01-hook-pattern-interrupt-9x16.mp4` | 8s · shots 0→1 · pattern interrupt → craft note | OWNED-BRAND / SELF-INITIATED |
-| 2 | `deliver/02-hook-benefit-9x16.mp4` | 8s · shots 1→2 · benefit / texture angle | OWNED-BRAND / SELF-INITIATED |
-| 3 | `deliver/03-hook-compare-structure-9x16.mp4` | 8s · shots 2→0 · “same footage, different hook” | OWNED-BRAND / SELF-INITIATED |
+**Date:** 2026-09-16  
+**Path:** CapCut/FFmpeg  
+**Honesty:** Self-initiated edit studies — NOT paid client DR ads, NOT ROAS proof.
 
-## Alternates (4s single-shot)
-`out/hook-01-pattern-interrupt-9x16.mp4`, `hook-02-benefit-9x16.mp4`, `hook-03-cta-9x16.mp4`
+## Public on GitHub Pages
+| File | Notes |
+|------|-------|
+| `l01-demo-reel-9x16-v2-clean.mp4` | Brand-clean structure reel (text/placeholder only) |
+| `teardown/sample-allbirds-v1.mp4` | Public Meta Ad Library critique (Allbirds) — not a client case |
+| `teardown/async-ad-teardown-sample-proof-v0.mp4` | Short slides proof |
 
-## Proposal paste hints
-1. Pattern interrupt hook — [file/link] — role: editor/assembler — note: owned-brand self-initiated  
-2. Benefit / cold-walk hook — [file/link] — role: editor/assembler — note: owned-brand self-initiated  
-3. Compare-structure hook — [file/link] — role: editor/assembler — note: owned-brand self-initiated  
+## Removed from public host (2026-09-16)
+Prior hook MP4s and static PNGs that used product/apparel imagery — deleted from venture Pages. Do not re-host those assets on venture surfaces.
 
-**CEO autonomy 2026-09-08:** send allowed once checklist honest (owned-brand/self-initiated disclosed; no fake client/ROAS).
+**Offers:** Performance Creative Trial (€350) and Async Ad Teardown (€79) are soft-parked (not for sale).
