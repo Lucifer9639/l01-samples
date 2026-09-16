@@ -7,7 +7,7 @@
 ## Public on GitHub Pages
 | File | Notes |
 |------|-------|
-| `l01-demo-reel-9x16-v2-clean.mp4` | Brand-clean structure reel (text/placeholder only) |
+| `l01-demo-reel-9x16-v2.mp4` | Brand-clean structure reel (text/placeholder only) |
 | `teardown/sample-allbirds-v1.mp4` | Public Meta Ad Library critique (Allbirds) — not a client case |
 | `teardown/async-ad-teardown-sample-proof-v0.mp4` | Short slides proof |
 
