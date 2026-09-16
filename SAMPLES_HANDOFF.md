@@ -1,7 +1,7 @@
 # L01 DR samples — min credible (Creative Producer)
 **Date:** 2026-09-08  
 **Path:** CapCut/FFmpeg (no Higgsfield)  
-**Source:** Owned ANARCRIS portfolio reel shots (`reel-shot-0/1/2.mp4` from company-launch portfolio assets)  
+**Source:** Owned-brand portfolio reel shots  
 **Honesty:** All three are **self-initiated / owned-brand edit studies** — NOT paid client DR ads, NOT ROAS proof. Burned-in footer says so.
 
 ## Primary deliverables (attach these)
